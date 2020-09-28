@@ -4,14 +4,15 @@ Ecma 6
 Ecma 7
 > variable
 > Operations
-> condition
 > String
 > Math
-> github
+//////////////////////////////////
 > localstorage
 > sessionStorage
 > cookies
 > String literals
+> github
+> condition
 > if else
 > ternery Operations
 > Date
