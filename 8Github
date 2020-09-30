@@ -1,0 +1,19 @@
+>>>Run only one time from new folder<<<<
+
+git init
+git add .
+git commit -m "first commit"
+git remote add origin https://github.com/Aakashdeveloper/TestRepo.git
+git push -u origin master
+
+>>>Next All Times when you want too push<<<<
+git add .
+git commit -m "first commit"
+git push
+
+
+////To download whole code 
+> git clone repopath
+
+//To pull changes of other developer
+git pull  
