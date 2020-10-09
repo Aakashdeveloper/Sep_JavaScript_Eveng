@@ -62,3 +62,9 @@ var add = function(a,b){
 
 add(1,2)
 3
+
+
+//Arrow function
+var add = (a,b) => { return a+b}
+add(1,2)
+3

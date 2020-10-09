@@ -19,11 +19,11 @@ Ecma 7
 > array
 > regex
 > loops
-//////////////////////////////////
 > Functions
 > Es6
-    > let, const
     > maps,filter
+//////////////////////////////////
+> let, const
 > Clousers
 > Hoisting
 > JSON
