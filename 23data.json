@@ -1,0 +1,20 @@
+>>Way to represent the data
+JSON > JavaScript object Notation
+
+var movies = [
+    {
+        "name":"Blood Diamond",
+        "rating":4.5,
+        "lang":"English"
+    },
+    {
+        "name":"Jab We Met",
+        "rating":5,
+        "lang":"Hindi"
+    }
+]
+
+movies[0].name
+"Blood Diamond"
+movies[1].lang
+"Hindi"

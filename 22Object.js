@@ -44,3 +44,24 @@ delete movies.lang
 true
 movies
 {name: "Blood diamond", rating: 3.9, ind: "Hollywood"}
+
+//////////
+var calc = {
+    sum:function(a,b){return a+b},
+    sub:(a,b) => {return a-b}
+}
+
+calc.sum(2,5)
+7
+calc.sub(2,5)
+-3
+
+var dbquery = {
+    find:(table) => {return `Select * from ${table}`},
+    insert:(table,data) => { return `insert into ${table} name,city Values(${data.name},${data.city})`}
+}
+
+dbquery.find('Student')
+"Select * from Student"
+dbquery.insert('student',{name:'John',city:'Delhi'})
+"insert into student name,city Values(John,Delhi)"

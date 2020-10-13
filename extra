@@ -25,10 +25,10 @@ Ecma 7
 > let, const
 > Clousers
 > Hoisting
-//////////////////////////////////
 > JSON
 > object 
 > this 
+//////////////////////////////////
 > Prototypes
 > Es6
     > classes
@@ -36,6 +36,7 @@ Ecma 7
     > import export
 > package.JSON
 > npm
+-----
 > DoM
 > Geolocation
 > Form validation
