@@ -55,3 +55,25 @@ Ecma 7
 > Weather application
 > ajax
 > Baisc Jquery
+
+babel
+
+//package.json///
+> name
+> version
+> description
+> packages 
+> command to start stop
+
+/////Step to create package.json/////
+**Node Js must be installed
+> go inside the folder using cmd/terminal
+> npm init -y
+
+//Step to install packages//
+> go inside the folder using cmd/terminal
+> npm i @babel/core @babel/preset-env @babel/register
+
+//When we get application from someone
+> go inside the folder using cmd/terminal
+> npm i 
