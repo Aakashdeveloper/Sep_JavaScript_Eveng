@@ -28,7 +28,6 @@ Ecma 7
 > JSON
 > object 
 > this 
-//////////////////////////////////
 > Prototypes
 > Es6
     > classes
@@ -36,12 +35,13 @@ Ecma 7
     > import export
 > package.JSON
 > npm
------
+//////////////////////////////////
 > DoM
+> Calc
 > Geolocation
 > Form validation
 > Event
-> Calc
+
 > currenyConvertor
 > promis
 > async await
