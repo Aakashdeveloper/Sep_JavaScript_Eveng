@@ -1,0 +1,13 @@
+window.innerHeight
+349
+window.innerWidth
+975
+window.innerWidth
+1192
+window.innerHeight
+349
+window.innerHeight
+228
+screen.availHeight
+804
+screen.availWidth
