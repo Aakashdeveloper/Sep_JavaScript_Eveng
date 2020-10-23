@@ -30,3 +30,8 @@ cookies save wrt to the website
 when you reopen the webpage you will still see your saved cookies
 
 document.cookie="location=12;expires=Fri, 2 Oct 2020 01:00:00 UTC;"
+
+var a = 10
+
+>"10"
+a.toString()
